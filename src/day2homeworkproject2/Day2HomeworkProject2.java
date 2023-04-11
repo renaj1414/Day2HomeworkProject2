@@ -8,4 +8,5 @@ public class Day2HomeworkProject2 {
 	public void getInfo2() {
 		
 	}
+	System.out.println("Second test");
 }
